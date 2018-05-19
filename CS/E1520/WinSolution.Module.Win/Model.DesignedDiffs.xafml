@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<DetailView ID="DomainObject1_DetailView">
+			<Items>
+				<VGridControlDetailViewItem ID="VGridControlDetailViewItemID" Caption="123" IsNewNode="True" />
+			</Items>
+			<Layout Width="600" Height="1010">
+				<LayoutGroup ID="Main" CaptionLocation="Default" RelativeSize="99">
+					<LayoutGroup ID="SimpleEditors" CaptionLocation="Default" RelativeSize="98">
+						<LayoutGroup ID="DomainObject1" CaptionLocation="Default" RelativeSize="100">
+							<LayoutItem ID="VGridControlDetailViewItemID" ShowCaption="True" CaptionLocation="Default" Index="0" RelativeSize="2" SizeConstraintsType="Default" IsNewNode="True" />
+							<LayoutItem ID="Age" Removed="True" />
+							<LayoutItem ID="Description" Removed="True" />
+							<LayoutItem ID="Name" Removed="True" />
+							<LayoutItem ID="ReferencedProperty" Removed="True" />
+						</LayoutGroup>
+					</LayoutGroup>
+				</LayoutGroup>
+			</Layout>
+		</DetailView>
+	</Views>
+</Application>
