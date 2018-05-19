@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="WinSolution" Logo="ExpressAppLogo">
+	<SchemaModules IsNewNode="True">
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.1.3.0" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.3.0" IsNewNode="True" />
+		<SchemaModule Name="SystemModule" Version="9.1.3.0" IsNewNode="True" />
+		<SchemaModule Name="ViewVariantsModule" Version="9.1.3.0" IsNewNode="True" />
+	</SchemaModules>
+	<Views>
+		<ListView ID="DomainObject1_ListView" MasterDetailMode="ListViewAndDetailView" />
+	</Views>
+</Application>
