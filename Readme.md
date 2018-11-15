@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [VGridControlDetailViewItem.cs](./CS/WinSolution.Module.Win/VGridControlDetailViewItem.cs) (VB: [VGridControlDetailViewItem.vb](./VB/WinSolution.Module.Win/VGridControlDetailViewItem.vb))
+<!-- default file list end -->
 # OBSOLETE - How to use VGridControl instead of the LayoutControl in the DetailView
 
 
