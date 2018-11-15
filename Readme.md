@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [VGridControlDetailViewItem.cs](./CS/WinSolution.Module.Win/VGridControlDetailViewItem.cs) (VB: [VGridControlDetailViewItem.vb](./VB/WinSolution.Module.Win/VGridControlDetailViewItem.vb))
+<!-- default file list end -->
 # OBSOLETE - How to use VGridControl instead of the LayoutControl in the DetailView
 
 
